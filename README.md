@@ -12,13 +12,19 @@ Web application made using the MERN stack(MongoDB, Express, React and Node.js) f
 ### Installation
 1. Clone the repository
 2. Install npm packages
-`npm install`
+```sh
+npm install
+```
 3. Get the address of your MongoDB server and replace it on `/server/server.js`
 4. Start your Mongo server
 5. Start the Express server in the `/server/` folder
-`node server`
+```sh
+node server
+```
 6. Start the React app in the `/client/` folder
-`npm start`
+```sh
+npm start
+```
 
 ## Acknowledgements
 - Bootstrap
